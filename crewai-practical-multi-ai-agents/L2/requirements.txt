@@ -1,0 +1,5 @@
+# torch==2.0.1
+# matplotlib==3.7.2
+
+crewai==0.75
+crewai_tools==0.12.1
