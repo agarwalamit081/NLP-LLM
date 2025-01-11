@@ -1,0 +1,1 @@
+pip install langchain==0.3.14 chromadb==0.6.2 openai==1.59.3
